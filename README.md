@@ -9,10 +9,10 @@ Projects
 BA mini project - Advanced Excel.xlsx
 
 
-Built a PivotTable summarizing order value by city, product category, and customer segment (Premium vs. Regular), with grand totals.
+Built interactive KPI reports using Pivot Tables, XLOOKUP, Conditional Formatting, charts, and data validation.
 Calculated the revenue split between Premium and Regular customers (58% vs. 42%).
 Documented findings directly in the workbook, e.g. zero Electronics sales in Ahmedabad and zero Accessories sales in Pune — flagged as a gap in category reach that sales/marketing should address.
-Includes source data tables: Order Data, Customer Data, and Product Data.
+Includes source data tables: Order Data (combines other tables with XLOOKUP), Customer Data, and Product Data.
 
 
 Skills demonstrated: PivotTables, cross-tabulation, percentage-of-total calculations, written business observations from data.
@@ -54,9 +54,15 @@ Overall revenue is highly volatile over the period
 
 Skills demonstrated: Data modeling, DAX measures (Active/Churned/Total Revenue), interactive filtering, executive-level storytelling with data.
 
+Source Data
+
+Source data for excel and SQL projects: Dataset-Excel_SQL.xlsx 
+
+Source data for PowerBI projects: Dataset-Powerbi.xlsx
+
 Tools Used
 
-Excel (PivotTables) · SQL · Power BI (Data Modeling, DAX, Report Design)
+Excel (Pivot Tables, XLOOKUP, Conditional Formatting, charts, and data validation) · SQL · Power BI (Data Modeling, DAX, Report Design)
 
 About
 
