@@ -1,4 +1,4 @@
-# BAminiprojects
+# Revenue Analysis
 
 A set of small, self-directed business analysis projects built to practice the core BA toolkit — Excel, SQL, and Power BI — on realistic e-commerce/customer transaction data. Each project takes raw order/customer/product data and turns it into business insight: revenue breakdowns, segment analysis, and churn/decline signals that could inform a sales or marketing decision.
 
